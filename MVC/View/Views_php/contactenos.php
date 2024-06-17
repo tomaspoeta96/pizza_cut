@@ -79,7 +79,7 @@
 		</div>
 		<div id="map">Google Maps</div>
 		<script type="text/javascript" src="../../../Utils/js/mapa.js"></script>
- 		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzWGQhRAV8Y_VD8oSE1Xes6Sy4_-brm5E&callback=initMap"></script>
+ 		<script async defer src="https://maps.googleapis.com/maps/api/js?key=XXXXXXXXXXXXXXXXXXXXXXXXXXapikeygoeshereXXXXXXXx&callback=initMap"></script>
 	</section>
 	<footer class="footer">
 		<img src="../../../Utils/imgs/logo.png" alt="" class="footer-img">
